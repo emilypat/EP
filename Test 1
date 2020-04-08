@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <h1 style="text-align:Center; Color:#444444"> My First Styled Page </h1>
+    <style> P {
+      border: 1px solid white;
+      border-radius:15px;
+      padding: 30px;
+      margin: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      text-indent: 50px;
+    }
+    div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+  </style>
+  </head>
+  <body style= "background-color:lightblue;">
+
+  <p style="background-color: White;"> <b style="font-size:200%;Color:#444444"> L</b> orem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac massa sit amet dolor auctor tempor. Donec tincidunt ornare diam, ac tristique mi mollis ut. Etiam aliquam in justo quis lacinia. Mauris lacinia a diam ut ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed nulla risus, gravida sit amet leo auctor, porttitor volutpat neque. Vivamus feugiat feugiat nunc, sit amet placerat nulla tempor et. Vestibulum elementum orci a vehicula vehicula. Fusce lobortis ex non varius rutrum. In ac mauris nisl. In sagittis consectetur sollicitudin. Sed et orci magna. Etiam aliquet ac dui eget mollis. Ut a eros eu felis laoreet condimentum non nec urna. Proin malesuada pretium elit sit amet imperdiet. Pellentesque vulputate risus in pharetra sollicitudin. </p>
+<p style="background-color: White;">
+  <b style="font-size:200%;Color:#444444"> S</b>
+uspendisse mauris dolor, pretium ut commodo in, pulvinar sodales enim. Suspendisse potenti. Donec eget ultrices sapien, et vehicula neque. Maecenas congue, nibh ac condimentum venenatis, ante leo lacinia lorem, non sollicitudin arcu diam nec dui. Proin interdum blandit risus. Donec at nisi at ex cursus auctor sed id magna. Sed congue tellus quis felis consequat, in posuere libero ullamcorper. </p>
+<p style="background-color: White;">
+  <b style="font-size:200%;Color:#444444"> I</b>
+nteger eu lectus lobortis, maximus lacus ac, commodo ex. Donec vitae diam at magna dapibus faucibus nec a ligula. Nullam varius velit hendrerit lorem iaculis, ac pharetra libero lobortis. Quisque blandit ultricies orci in lobortis. Vivamus vel mi consectetur, malesuada ipsum varius, luctus risus. Duis faucibus libero vitae tortor convallis luctus. Aenean pharetra est vel eleifend laoreet. Ut mollis tempus ligula, vel pulvinar dolor accumsan id. Donec iaculis dolor dolor, sed ullamcorper urna feugiat quis. Sed pretium, magna a gravida viverra, nisl mi dapibus lectus, non mattis purus mi ut purus. Maecenas eget sem ipsum. Quisque at bibendum ex. Aliquam et malesuada metus. Sed mattis nibh eget urna facilisis scelerisque. Mauris ex augue, pharetra sed pretium dictum, condimentum nec massa. </p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
